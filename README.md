@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sejam bem-vindos e fiquem à vontade!</h2>
+<h2 align="center">Olá, sejam bem-vindos e fiquem à vontade!</h2>
 
 ###
 
