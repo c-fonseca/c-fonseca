@@ -1,24 +1,20 @@
-<div align="center">
+# ⚡ Cleissiane Fonseca
 
-# 𝙲𝙻𝙴𝙸𝚂𝚂𝙸𝙰𝙽𝙴 𝙵𝙾𝙽𝚂𝙴𝙲𝙰
-`SISTEMAS DE INFORMAÇÃO`
-
----
-
-### [ 01. INTRO ]
-Olá! Estou na jornada de aprender a construir a web, um comando de cada vez. Atualmente focada em dominar a trindade do Front-end: **HTML, CSS e JavaScript**. 
-
-### [ 02. SKILLS ]
-`HTML5` // `CSS3` // `JAVASCRIPT` // `GIT`
+<p align="left">
+  <img src="https://img.shields.io/badge/SISTEMAS%20DE%20INFORMA%C3%87%C3%83O-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCO-FRONT%20END-FF007F?style=for-the-badge" />
+</p>
 
 ---
 
-### [ 03. STATUS ]
-![Sua Atividade](https://activity-graph.herokuapp.com/graph?username=c-fonseca&theme=dracula&hide_border=true&area=true)
+### 💻 Tecnologias em Estudo
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
 
 ---
 
-### [ 04. CONNECT ]
-[**LINKEDIN**](seu-link-aqui) • [**EMAIL**](mailto:seu-email@gmail.com)
-
-</div>
+### 📫 Contato
+* **LinkedIn:** [Cleissiane Fonseca](www.linkedin.com/in/cleissiane-fonseca)
+* **E-mail:** cleissianeefonseca17@gmail.com
