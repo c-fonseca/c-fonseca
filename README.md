@@ -1,43 +1,42 @@
-<h2 align="center">Olá, sejam bem-vindos e fiquem à vontade!</h2>
+# ⚡ Cleissiane Fonseca
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Information_Systems-Student-blueviolet?style=for-the-badge&logo=uninter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Sales_Intelligence-success?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-fonseca&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-fonseca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+> **Explorando a intersecção entre dados e interfaces.** Atualmente focada em transformar fluxos de negócios em experiências digitais eficientes, unindo a precisão da análise de dados com a criatividade do Front-end.
 
-###
+---
 
-<h3 align="center">Tecnologias:</h3>
+### 🛠️ Toolbox (O que eu domino)
 
-###
+#### **Desenvolvimento & Design**
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `Tailwind` • `Figma`
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
-</div>
+#### **Dados & Estrutura**
+`SQL` • `Modelagem de Dados (MER/DER)` • `Excel Avançado` • `Power BI`
 
-###
+---
 
-<h3 align="center">Redes:</h3>
+### 🚀 Destaques Acadêmicos e Profissionais
 
-###
+- **Sistemas de Informação:** Foco em arquitetura de sistemas e metodologias ágeis.
+- **Inteligência de Vendas:** Especialista em automação de planilhas e auditoria de métricas de positividade.
+- **TI Verde:** Entusiasta de tecnologias sustentáveis e Indústria 5.0.
 
-<div align="center">
-  <a href="https://br.linkedin.com/in/cleissiane-fonseca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:cleissianeefonseca17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c-fonseca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats de Cleissiane" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-fonseca&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="300" />
+</p>
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](seu-link-aqui) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:seu-email@gmail.com)
